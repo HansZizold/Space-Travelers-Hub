@@ -94,7 +94,7 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-    git clone git clone https://github.com/HansZizold/Space-Travelers-Hub
+    git clone https://github.com/HansZizold/Space-Travelers-Hub
     cd ./Space-Travelers-Hub
 
 ### Install
