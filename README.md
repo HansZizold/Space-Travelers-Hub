@@ -25,7 +25,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 SPACE TRAVELERSS HUB <a name="about-project"></a>
+# 📖 SPACE TRAVELERS HUB <a name="about-project"></a>
 
 Welcome to **Space Travelers Hub**, a comprehensive web application that allows you to explore a variety of rockets and missions. Our platform offers users the ability to reserve and join exciting missions, enabling them to discover the wonders of space travel like never before. With a user-friendly interface and cutting-edge features, Space Travelers Hub is the ultimate destination for those looking to embark on an adventure beyond our planet..
 
