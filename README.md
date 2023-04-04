@@ -115,15 +115,15 @@ To run the project, execute the following command:
 
 👤 **Guishny Desor**
 
-- GitHub:  [@desorgui](https://github.com/desorgui)
-- Twitter: [@Dguishny](https://twitter.com/DGuishny)
-- LinkedIn:  [Guishny Desor](https://www.linkedin.com/in/desorguishny)
+- [GitHub](https://github.com/desorgui)
+- [Twitter](https://twitter.com/DGuishny)
+- [LinkedIn](https://www.linkedin.com/in/desorguishny)
 
 👤 **Hans P. Zizold**
 
-- GitHub: [@githubhandle](https://github.com/HansZizold)
-- Twitter: [@twitterhandle](https://twitter.com/hanzio27)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/hans-paul-zizold-37129037/)
+- [GitHub](https://github.com/HansZizold)
+- [Twitter](https://twitter.com/hanzio27)
+- [LinkedIn](https://www.linkedin.com/in/hans-paul-zizold-37129037/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
