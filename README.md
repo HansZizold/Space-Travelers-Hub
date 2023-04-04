@@ -1,51 +1,117 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+<a name="readme-top"></a>
 
-### TITLE
+# 📗 Table of Contents
 
-> ### SPACE TRAVELERS HUB
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
+- [🙏 Copyright](#copyrights)
+- [📝 License](#license)
 
-## Description
+<!-- PROJECT DESCRIPTION -->
 
-"Space Travelers Hub" is a web application where you can discover rockets and missions. You can reserve and join them.
+# 📖 SPACE TRAVELERSS HUB <a name="about-project"></a>
 
-## Built With
+Welcome to **Space Travelers Hub**, a comprehensive web application that allows you to explore a variety of rockets and missions. Our platform offers users the ability to reserve and join exciting missions, enabling them to discover the wonders of space travel like never before. With a user-friendly interface and cutting-edge features, Space Travelers Hub is the ultimate destination for those looking to embark on an adventure beyond our planet..
 
-- *[Create React App](https://github.com/facebook/create-react-app)*
+## 🛠 Built With <a name="built-with"></a>
 
-- *Linters for HTML/CSS/JS*
+### Tech Stack <a name="tech-stack"></a>
 
-- *GIT/Github*
+<details>
+<summary>Library</summary>
+  <ul>
+    <li><a href="https://react.dev/">React</a></li>
+  </ul>
+</details>
 
-- *Visual Studio Code*
+<details>
+<summary>Styling</summary>
+  <ul>
+    <li><a href="https://www.w3.org/Style/CSS/">CSS</a></li>
+  </ul>
+</details>
 
-## Live Demo (if available)
+<details>
+  <summary>Editor</summary>
+  <ul>
+    <li><a href="https://code.visualstudio.com/">VSCODE</a></li>
+  </ul>
+</details>
 
- [Live Version](https://space-travelers-hd.netlify.app/)
+<details>
+  <summary>Version Control</summary>
+  <ul>
+    <li><a href="https://git-scm.com/">GIT</a></li>
+    <li><a href="https://github.com/">Github</a></li>
+  </ul>
+</details>
 
-## Getting Started
+### Key Features <a name="key-features"></a>
 
-**To get a local copy up and running follow these simple example steps**.
+- **Users can see a list of available rockets.**
+- **Users can reserve and cancel a rocket**
+- **Users can see their reservations**
+- **Users can see a list of missions**
+- **Users can join and leave missions**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Demo](https://space-travelers-hd.netlify.app/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
 
 ### Prerequisites
 
-- You need to have a code editor to be able to run the code. VSCode is most preferred.
+In order to run this project you need:
+
+- An editor of your preference, for example VSCODE
+- Node.js
+- GIT
 
 ### Setup
-To get a local copy up and running follw these simple example steps:
 
-```
-    - Select the link with the code on the https code table in the repo
-    - Open a Terminal and write the command: git clone https://github.com/HansZizold/Space-Travelers-Hub
-    - $ cd into the directory and run npm install
-    - $ After the node_module module is installed successfully, run npm start
-    - $ The project will open on the browser
-```
+Clone this repository to your desired folder:
+
+    git clone git clone https://github.com/HansZizold/Space-Travelers-Hub
+    cd ./Space-Travelers-Hub
 
 ### Install
 
-- Run it in your code editor
+Install the dependencies with:
 
-## Authors
+    npm install
+
+### Usage
+
+To run the project, execute the following command:
+
+    npm start
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 👥 Authors <a name="authors"></a>
 
 👤 **Guishny Desor**
 
@@ -59,16 +125,44 @@ To get a local copy up and running follw these simple example steps:
 - Twitter: [@twitterhandle](https://twitter.com/hanzio27)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/hans-paul-zizold-37129037/)
 
-## 🤝 Contributing
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Show your support
+<!-- FUTURE FEATURES -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/HansZizold/blogapp/issues).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## ⭐️ Show your support <a name="support"></a>
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-- Microverse
+<!-- ACKNOWLEDGEMENTS -->
 
-## 📝 License
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-This project is [MIT](./MIT.md) licensed.
+- My loving family 😊
+- My partners from Microverse
+- Inspiration, Dedication
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- COPYRIGHTS -->
+
+## Copyrights <a name="copyrights"></a>
+
+Original design idea by [Gregoire Vella](https://www.behance.net/gregoirevella), under [Creative Commons License](https://creativecommons.org/licenses/by-nc/4.0/).
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE.md) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
